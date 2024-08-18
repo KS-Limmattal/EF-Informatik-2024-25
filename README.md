@@ -24,4 +24,4 @@
 
 ## Aufgaben
 
-- [Aufgabe M1: Hello World](https://classroom.github.com/a/Ts6WVj3z)
+- [Aufgabe M1: Hello World](https://classroom.github.com/a/pxOW8F8w)
