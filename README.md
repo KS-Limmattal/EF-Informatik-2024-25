@@ -12,7 +12,7 @@
 
 ### Java
 
-- Für den Einstieg: [w3schools Java Tutorial](https://www.w3schools.com/java/default.asp)
+- Einsteiger_innenfreundliche Seite: [w3schools Java Tutorial](https://www.w3schools.com/java/default.asp)
 - Einstieg für erfahrene Programmierer_innen: [GeeksForGeeks Java Tutorial](https://www.geeksforgeeks.org/java/)
 - Java Style Guides: [Oracle Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf) (Abschnitt 9), [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
