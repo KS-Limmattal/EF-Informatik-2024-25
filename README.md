@@ -6,7 +6,7 @@
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Editor zur Java-Programmierung: empfohlen [VS Code](https://code.visualstudio.com/)
   - VS Code auf Englisch umstellen (falls nötig)
-  - in VS Code 'Extension Pack for Java' sowie 'Github Pull Requests' installieren
+  - in VS Code 'Extension Pack for Java' installieren
 
 ## Ressourcen
 
