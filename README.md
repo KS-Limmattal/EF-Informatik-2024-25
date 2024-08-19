@@ -25,3 +25,4 @@
 ## Aufgaben
 
 - [Aufgabe M1: Hello World](https://classroom.github.com/a/pxOW8F8w)
+- [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
