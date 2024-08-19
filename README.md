@@ -25,5 +25,5 @@
 ## Aufgaben
 
 - [Aufgabe M1: Hello World](https://classroom.github.com/a/pxOW8F8w)
-- [Aufgabe A1: ](https://classroom.github.com/a/oUJYNGjb)
+- [Aufgabe A1: Methoden, Variablen und Operationen](https://classroom.github.com/a/oUJYNGjb)
 - [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
