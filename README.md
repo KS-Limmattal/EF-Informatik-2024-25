@@ -25,5 +25,6 @@
 ## Aufgaben
 
 - [Aufgabe M1: Hello World](https://classroom.github.com/a/pxOW8F8w)
+- [Aufgabe M2: Primitive Datentypen](/M2%20Zahlen/)
 - [Aufgabe A1: Methoden, Variablen und Operationen](https://classroom.github.com/a/oUJYNGjb)
 - [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
