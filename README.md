@@ -28,3 +28,12 @@
 - [Aufgabe M2: Primitive Datentypen](/M2%20Zahlen/)
 - [Aufgabe A1: Methoden, Variablen und Operationen](https://classroom.github.com/a/oUJYNGjb)
 - [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
+
+## Prüfungsstoff
+
+### 1. Prüfung vom 28. 10. 2024
+
+- Programmieren: A1 (Methoden, Variablen und Operationen) bzw. B1 (Imperative und Funktionale Programmierung). Referenzen zu w3schools s. Aufgabenblätter.
+- M1: Hello World, Kompilieren
+- M2: Primitive Datentypen, Zahlencodierungen, Rechnen mit primitiven Datentypen
+- M3 Code lesen: Method overloading, Sichtbarkeit von Variablen, Fehlersuche. (Hintergrundinfo: [Stack Memory and Heap Space in Java](https://www.baeldung.com/java-stack-heap))
