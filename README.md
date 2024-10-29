@@ -29,6 +29,7 @@
 - [Aufgabe A1: Methoden, Variablen und Operationen](https://classroom.github.com/a/oUJYNGjb)
 - [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
 - [Aufgabe A2: Schleifen und Arrays](https://classroom.github.com/a/1xvEm9nL)
+- [Aufgabe B2: Klassen und Encapsulation](https://classroom.github.com/a/PoWcKcf0)
 
 ## Prüfungsstoff
 
