@@ -9,6 +9,7 @@ public class Fraction {
         this.numerator = numerator;
         this.setDenominator(denominator);
         numberOfFractions++;
+        // this.simplify();
     }
     
     public Fraction(Fraction f) {
@@ -75,9 +76,24 @@ public class Fraction {
      *   Nachteil: die statischen Methoden werden umständlich, wenn jeweils zuerst mit dem Copy-Konstruktor 
      *   ein neues Objekt erzeugt, darauf die dynamische Methode aufgerufen werden muss und danach das Resultat ausgegeben wird)
      */
+    public static int gcd(int x, int y){ // berechnet das kgV zweier Zahlen mit dem Euklidischen Algorithmus
+        if (x % y == 0) {
+            return y;
+        } else {
+            return gcd(y, x % y);
+        }
+    }
+    
+    public void simplify(){
+        int gcd = gcd(numerator, denominator);
+        numerator /= gcd;
+        denominator /= gcd;
+    } // Falls Brüche immer gekürzt gespeichert werden sollen, muss an drei Stellen Code entkommentiert werden.
+    
     public void add(Fraction f) {
         this.setNumerator(this.numerator * f.denominator + this.denominator * f.numerator);
         this.setDenominator(this.denominator * f.denominator);
+        // this.simplify();
     }
 
     public void negative(){
@@ -90,6 +106,7 @@ public class Fraction {
 
     public void multiply(Fraction f) {
         this.setValues(this.numerator * f.numerator, this.denominator * f.denominator);
+        // this.simplify();
     }
 
     // kann ArithmeticException verursachen
@@ -132,7 +149,7 @@ public class Fraction {
 
     /*
      * equals() und toString())
-     */
+    */
     
     public boolean equals(Fraction f) {
         return this.numerator * f.denominator == this.denominator * f.numerator;

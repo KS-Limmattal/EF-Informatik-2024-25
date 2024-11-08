@@ -55,6 +55,11 @@ public class FractionTester {
         // die folgenden Zeilen erzeugen einen Fehler
         // f.divide(new Fraction(0, 1));
         // Fraction.divide(f, new Fraction(0, 1));
+        
+        // simplify()
+        f.setValues(12, 18);
+        f.simplify();
+        System.out.println(f);
 
         // statische Variablen:
         System.out.println("Anzahl Brüche: " + Fraction.getNumberOfFractions());
