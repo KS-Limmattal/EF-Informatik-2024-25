@@ -30,7 +30,7 @@
 - [Aufgabe B1: Imperative und Funktionale Programmierung](https://classroom.github.com/a/esVvwjfu)
 - [Aufgabe A2: Schleifen und Arrays](https://classroom.github.com/a/1xvEm9nL)
 - [Aufgabe B2a: Klassen und Encapsulation](https://classroom.github.com/a/PoWcKcf0)
-- [Aufgabe B2b: Klassen und Unterklassen (Jass)](https://classroom.github.com/a/S3HwFATH)
+- [Aufgabe B2b: Anwendung Klassen (Jass)](https://classroom.github.com/a/S3HwFATH)
 
 ## Prüfungsstoff
 
