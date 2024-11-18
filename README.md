@@ -34,6 +34,11 @@
 
 ## Prüfungsstoff
 
+### 2. Prüfung vom 25. 11. 2024
+
+- Programmieren: A2a (Schleifen) bzw. B2a (Klassen und Encapsulation). Die Inhalte von A1 bzw. B1 werden vorausgesetzt.
+- M3 Code lesen: mit Beispielen aus dem Umfang der Programmierthemen.
+
 ### 1. Prüfung vom 28. 10. 2024
 
 - Programmieren: A1 (Methoden, Variablen und Operationen) bzw. B1 (Imperative und Funktionale Programmierung). Referenzen zu w3schools s. Aufgabenblätter.
