@@ -1,5 +1,13 @@
 # Java-Programmierung im EF Informatik
 
+## Programmierprojekte
+ - [Fight of Blob](https://github.com/Alex-t-G/Game-Hanna-and-Mara) (Hanna & Mara)
+ - [myCoolGameILoveGamingAndProgrammingInJava](https://github.com/piparel/myCoolGameILoveGamingAndProgrammingInJava) (Arturs, Daniel)
+ - [Flappy Bird but better](https://github.com/randomnamepls123/Flappy-Bird-but-better) (Ada & Julia)
+ - [Powder Game](https://github.com/Intro-specter/powderGame) (Colin)
+ - [Tichu](https://github.com/silvasch/tichu) (Silvan, Manuel)
+ - [Sudoku Solver](https://github.com/simona789/M4-Sudoku-Solver) (Simona)
+
 ## Installation
 
 - [Java Development Kit >= 8, empfohlen 17](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-17) oder über Linux-Repositories
